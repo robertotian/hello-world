@@ -1,3 +1,3 @@
 # hello-world
-hello-world project
-This is the original version 
+hello-world project 
+This is edited version 
